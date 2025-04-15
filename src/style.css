@@ -3,3 +3,8 @@
 body{
     background: white;
 }
+
+.form .red {
+    border: 2px solid #f1aeb5;
+    background-color: #f8d7da;
+}
